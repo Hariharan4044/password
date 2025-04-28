@@ -5,7 +5,7 @@
 }
 
 body {
-  background:linear-gradient(45deg,rgb(48, 160, 249),rgb(176, 11, 159));
+  background:linear-gradient(45deg,rgb(48, 160, 250),rgb(176, 11, 159));
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
